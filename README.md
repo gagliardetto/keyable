@@ -10,7 +10,7 @@ I needed to make things happen in a program **while** it was running.
 
 Plus, I also didn't want to write a lot of `if` statements.
 
-So I wrote `pausable` to have a clean interface for having callbacks
+So I wrote `keyable` to have a clean interface for having callbacks
 associated with keys or key combinations.
 
 ## Usage
